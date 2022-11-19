@@ -14,7 +14,7 @@ $("#subject-select").multiselect({
         // $('.' + subs[i] + '-conf').show();
       }
     }
-    // $(".ccfcheck").prop("checked", true);
+    $(".ccfcheck").prop("checked", true);
     update_filtering({ subs: subs, all_subs: all_subs });
   },
   onSelectAll: function (options) {
