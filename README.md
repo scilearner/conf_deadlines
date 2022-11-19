@@ -62,7 +62,7 @@ To add or update a deadline:
       sub: [SP,CV,AI]
       note: Important
     ```
-- Send a pull request
+- Send a pull request, open an issue 应该都行
 
 ## Forks & other useful listings
 
