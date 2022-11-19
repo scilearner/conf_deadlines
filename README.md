@@ -29,6 +29,7 @@ bundler + jekyll 见 https://jekyllrb.com/ `gem install bundler jekyll`
 
 1. 在`.yml`文件里 加入 CCF 等级属性，在`_data/types.html`里添加 AI人工智能 类别
 2. ai-deadlines 只使用一个 `_data/conferences.yml`, 过于臃肿， 学ccf-deadlines拆分成每个会议各占一个文件， 但需要用 merge.sh 合并——因为我也不会写ruby.
+3. 注意 utils.js 第33行 和 calendar.js 147行， 我的不是在首页，采取写死的方法
 
 好像是调用了 `utils/process.py`, 但不确定
 
