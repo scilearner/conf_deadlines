@@ -4,6 +4,8 @@ Countdown timers to keep track of a bunch of CV/NLP/ML/RO conference deadlines.
 
 试图结合 [ai-deadlines](https://github.com/paperswithcode/ai-deadlines) 与 [ccf-deadlines](https://github.com/ccfddl/ccf-deadlines)
 
+CCF China Computer Federation (CCF) 中国计算机协会推荐学术会议
+
 ## 运行
 
 windows下 我用git bash没成功， 用 command prompt
@@ -60,7 +62,7 @@ To add or update a deadline:
       sub: [SP,CV,AI]
       note: Important
     ```
-- Send a pull request
+- Send a pull request, open an issue 应该都行
 
 ## Forks & other useful listings
 
