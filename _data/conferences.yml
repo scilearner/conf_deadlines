@@ -13,7 +13,7 @@
   start: 2023-02-07
   end: 2023-02-14
   hindex: 95
-  sub: ML
+  sub: [ML,AI]
 
 - title: ACML
   year: 2022
@@ -92,7 +92,7 @@
   date: September, 19-23, 2022
   start: 2022-09-19
   end: 2022-09-23
-  sub: ML
+  sub: [ML,Data]
   note: Check the conference website for workshop and demo deadlines
   
 - title: ICCBR
@@ -139,7 +139,7 @@
   start: 2023-07-23
   end: 2023-07-29
   hindex: 204
-  sub: ML
+  sub: [ML,AI]
 - title: ICPR
   year: 2022
   id: ICPR22
@@ -152,7 +152,7 @@
   start: 2023-07-22
   end: 2023-07-28
   hindex: 120
-  sub: [ML,CV]
+  sub: [ML,CV,AI]
 
 
 - title: ICTAI
@@ -183,7 +183,7 @@
   start: 2023-08-19
   end: 2023-08-25
   hindex: 120
-  sub: ML
+  sub: [ML,AI]
   note: Mandatory abstract deadline on Jan 11, 2023, and supplementary material deadline on Jan 23, 2023. More info <a href='https://ijcai-23.org/'>here</a>.
 
 - title: IJCNN
@@ -199,7 +199,7 @@
   start: 2023-06-18
   end: 2023-06-23
   hindex: 120
-  sub: [ML,CV]
+  sub: [ML,CV,AI]
 
 - title: KR
   year: 2023
@@ -231,7 +231,7 @@
   start: 2022-11-28
   end: 2022-12-09
   hindex: 245
-  sub: ML
+  sub: [ML,AI]
   note: Mandatory abstract deadline on May 16, 2022
   
 
@@ -247,7 +247,7 @@
   date: August 1-5, 2022
   start: 2022-08-01
   end: 2022-08-05
-  sub: ML
+  sub: [ML,AI]
 
 - title: SIGGRAPH
   year: 2021
@@ -293,7 +293,7 @@
   start: 2022-11-21
   end: 2022-11-24
   hindex: 75
-  sub: CV
+  sub: [CV,AI]
 
 
 - title: CVPR
@@ -309,7 +309,7 @@
   start: 2022-06-17
   end: 2022-06-23
   hindex: 389
-  sub: CV
+  sub: [CV,AI]
 
 - title: ECCV
   year: 2022
@@ -324,7 +324,7 @@
   start: 2022-10-24
   end: 2022-10-28
   hindex: 197
-  sub: CV
+  sub: [CV,AI]
 
 
 - title: ICCV
@@ -340,8 +340,7 @@
   start: 2023-09-30
   end: 2023-10-06
   hindex: 239
-  sub: CV
-  note: Supplementary deadline on Mar 15, 2023. More info <a href='http://iccv2023.thecvf.com/home'>here</a>.
+  sub: [CV,AI]
 
 - title: ICIP
   year: 2023
@@ -356,7 +355,7 @@
   end: 2023-09-22
   paperslink: https://2021.ieeeicip.org/Papers/TechnicalProgram_MS.asp
   hindex: 52
-  sub: CV
+  sub: [CV,CGMM]
 
 - title: CIKM
   year: 2022
@@ -370,7 +369,7 @@
   start: 2022-10-17
   end: 2022-10-22
   hindex: 48
-  sub: DM
+  sub: [DM,Data]
   ccf: B
   note: Mandatory abstract deadline on May 12, 2022
 
@@ -386,7 +385,7 @@
   start: 2022-11-30
   end: 2022-12-03
   hindex: 124.0
-  sub: DM
+  sub: [DM,Data]
   ccf: B
   note: Paper submissions limited to ten (10) pages, in the IEEE 2-column format | <a href="https://icdm22.cse.usf.edu/key-dates.html"> Key Dates</a> | <a href="https://icdm22.cse.usf.edu/calls/Papers.html">Call for Papers </a>
 
@@ -402,7 +401,7 @@
   start: 2022-08-14
   end: 2022-08-18
   hindex: 30
-  sub: DM
+  sub: [DM,Data]
 
 - title: PAKDD
   year: 2023
@@ -416,7 +415,7 @@
   start: 2022-05-25
   end: 2022-05-28
   hindex: 29
-  sub: [DM, AI, CV]
+  sub: [DM, Data, CV]
   
 
 - title: SIGIR
@@ -446,7 +445,7 @@
   start: 2023-02-27
   end: 2023-03-03
   hindex: 54
-  sub: DM
+  sub: [DM,Data]
   ccf: B
 
 - title: WWW
@@ -476,7 +475,7 @@
   start: 2023-06-04
   end: 2023-06-09
   hindex: 110
-  sub: SP
+  sub: [SP,CGMM]
   ccf: B
 
 - title: ICME
@@ -492,7 +491,7 @@
   end: 2023-07-14
   paperslink: https://www.2023.ieeeicme.org/general-calls.php
   hindex: 30
-  sub: [CG,CV]
+  sub: [CG,CV,CGMM]
 
 - title: InterSpeech
   year: 2022
@@ -505,7 +504,7 @@
   start: 2022-09-18
   end: 2022-09-22
   hindex: 100
-  sub: SP
+  sub: [SP,CGMM]
 
 - title: MM
   year: 2022
@@ -519,7 +518,7 @@
   start: 2022-10-10
   end: 2022-10-14
   hindex: 58
-  sub: [CG,CV]
+  sub: [CG,CV,CGMM]
   ccf: A
   note: Mandatory abstract deadline on March 31, 2022. More info <a href='https://2022.acmmm.org/call-for-papers/'>here</a>.
 
@@ -551,7 +550,7 @@
   start: 2023-07-09
   end: 2023-07-14
   hindex: 169
-  sub: NLP
+  sub: [NLP,AI]
   note: Hybrid format with ARR and START. Above deadlines are for START while abstract deadline is 13 January 2023. Submission to ARR should before 15 December 2022. More info <a href="https://2023.aclweb.org/calls/main_conference/">here</a>.
 
 - title: COLING
@@ -565,7 +564,7 @@
   start: 2022-10-12
   end: 2022-10-17
   hindex: 64
-  sub: NLP
+  sub: [NLP,AI]
   ccf: B
 
 - title: CoNLL
@@ -579,7 +578,7 @@
   start: 2022-12-07
   end: 2022-12-08
   hindex: 34
-  sub: NLP
+  sub: [NLP,AI]
   ccf: C
 
 - title: EACL
@@ -612,7 +611,7 @@
   start: 2022-12-07
   end: 2022-12-11
   hindex: 132
-  sub: NLP
+  sub: [NLP,AI]
   note: Hybrid format with ARR and START. More info <a href='https://2022.emnlp.org/calls/papers/Overview'>here</a>.
 
 - title: NAACL
@@ -628,7 +627,7 @@
   start: 2022-07-10
   end: 2022-07-15
   hindex: 105
-  sub: NLP
+  sub: [NLP,AI]
 
 
 - title: NLPCC
