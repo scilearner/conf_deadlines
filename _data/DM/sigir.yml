@@ -1,16 +1,16 @@
 
 
 - title: SIGIR
-  year: 2022
-  id: sigir22
-  link: https://sigir.org/sigir2022/
-  deadline: '2022-01-28 23:59:00'
-  abstract_deadline: '2022-01-21 23:59:00'
+  year: 2023
+  id: sigir23
+  link: https://sigir.org/sigir2023/
+  deadline: '2022-01-31 23:59:00'
+  abstract_deadline: '2022-01-24 23:59:00'
   timezone: UTC-12
-  place: Madrid, Spain
-  date: July 11-15, 2022
-  start: 2022-07-11
-  end: 2022-07-15
+  place: Taipei, China
+  date: July 23-27, 2022
+  start: 2022-07-23
+  end: 2022-07-27
   hindex: 66
   sub: DM
   ccf: A
