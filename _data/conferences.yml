@@ -369,7 +369,7 @@
   start: 2022-10-17
   end: 2022-10-22
   hindex: 48
-  sub: [DM,Data]
+  sub: [DM,DATA]
   ccf: B
   note: Mandatory abstract deadline on May 12, 2022
 
@@ -385,7 +385,7 @@
   start: 2022-11-30
   end: 2022-12-03
   hindex: 124.0
-  sub: [DM,Data]
+  sub: [DM,DATA]
   ccf: B
   note: Paper submissions limited to ten (10) pages, in the IEEE 2-column format | <a href="https://icdm22.cse.usf.edu/key-dates.html"> Key Dates</a> | <a href="https://icdm22.cse.usf.edu/calls/Papers.html">Call for Papers </a>
 
@@ -401,7 +401,7 @@
   start: 2022-08-14
   end: 2022-08-18
   hindex: 30
-  sub: [DM,Data]
+  sub: [DM,DATA]
 
 - title: PAKDD
   year: 2023
@@ -415,7 +415,7 @@
   start: 2022-05-25
   end: 2022-05-28
   hindex: 29
-  sub: [DM, Data, CV]
+  sub: [DM, DATA, CV]
   
 
 - title: SIGIR
@@ -430,7 +430,7 @@
   start: 2022-07-23
   end: 2022-07-27
   hindex: 66
-  sub: [DM,Data]
+  sub: [DM,DATA]
   ccf: A
   note: Mandatory abstract deadline on January 21, 2022. More info <a href='https://sigir.org/sigir2022/call-for-papers/'>here</a>.
 
@@ -445,7 +445,7 @@
   start: 2023-02-27
   end: 2023-03-03
   hindex: 54
-  sub: [DM,Data]
+  sub: [DM,DATA]
   ccf: B
 
 - title: WWW
@@ -460,7 +460,7 @@
   start: 2022-04-30
   end: 2022-05-04
   hindex: 70
-  sub: [DM,Inter]
+  sub: [DM,INTER]
   ccf: A
   note: Mandatory abstract deadline on October 6, 2022
 
