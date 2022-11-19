@@ -1,4 +1,16 @@
 ---
+- name: 人工智能
+  sub: AI
+  color: "#32a855"
+- name: 交叉学科
+  sub: Inter
+  color: "#ffd300"
+- name: 数据库/挖掘/检索
+  sub: Data
+  color: "#deff0a"
+- name: 图形学与多媒体
+  sub: CGMM
+  color: "#147df5"
 - name: Machine Learning
   sub: ML
   color: "#ffd300"
@@ -25,7 +37,4 @@
   color: "#a432a8"
 - name: Knowledge Representation
   sub: KR
-  color: "#32a855"
-- name: 人工智能
-  sub: AI
   color: "#32a855"

@@ -1,0 +1,15 @@
+
+- title: ICCBR
+  year: 2022
+  id: iccbr22  # title as lower case + last two digits of year
+  ccf: B
+  full_name: International Conference on Case-Based Reasoning
+  link: https://iccbr2022.loria.fr/call-for-papers/
+  deadline: '2022-05-01 23:59:59'
+  timezone: UTC-12
+  place: Nancy, France
+  date: September 12-15, 2022
+  start: 2022-09-12
+  end: 2022-09-15
+  sub: [AI]
+  

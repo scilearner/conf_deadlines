@@ -18,6 +18,7 @@
 - title: ACML
   year: 2022
   id: acml22
+  full_name: Asian Conference on Machine Learning
   link: https://www.acml-conf.org/2022
   deadline: '2022-06-23 23:59:00'
   timezone: UTC-12
@@ -33,46 +34,47 @@
 - title: AISTATS
   year: 2023
   id: aistats23
+  full_name:  International Conference on Artificial Intelligence and Statistics
   link: https://www.aistats.org/aistats2023/
   deadline: '2022-10-13 23:59:59'
   timezone: UTC-12
-  place: TBD
-  date: TBD
-  start: TBD
-  end: TBD
+  place: Valencia, Spain
+  date: April 25-27, 2023
+  start: 2023-04-25
+  end: 2023-04-27
   hindex: 85
-  sub: ML
+  sub: [ML,AI]
   note: Mandatory abstract deadline on Oct 6, 2022. More info <a href='https://aistats.org/aistats2023/call-for-papers.html'>here</a>.
   ccf: C
 
 - title: COLT
-  year: 2020
-  id: colt20
-  link: http://www.learningtheory.org/colt2020/
-  deadline: '2020-01-31 16:00:00'
+  year: 2023
+  id: colt23
+  full_name: Annual Conference on Computational Learning Theory
+  link: http://www.learningtheory.org/colt2023/
+  deadline: '2020-02-10 23:59:00'
   timezone: America/Los_Angeles
-  place: Graz, Austria
-  date: June 8-12, 2020
-  start: 2020-06-08
-  end: 2020-06-12
-  paperslink: http://proceedings.mlr.press/v125/
+  place: Bangalore, India
+  date: June 19-22, 2023
+  start: 2020-06-19
+  end: 2020-06-22
   hindex: 48
   sub: [ML,AI]
   ccf: B
 
 - title: ECAI
-  year: 2022
-  id: ecai22
+  year: 2023
+  id: ecai23
   full_name: International Joint Conference on Artificial Intelligence and European
     Conference on Artificial Intelligence
-  link: https://ijcai-22.org/
-  deadline: '2022-01-14 23:59:59'
+  link: https://ecai2023.eu/
+  deadline: '2022-04-20 23:59:59'
   abstract_deadline: '2022-01-07 23:59:59'
   timezone: UTC+1
-  place: Vienna, Austria
-  date: July 23-29, 2022
-  start: 2022-07-23
-  end: 2022-07-29
+  place: Krakow, Poland
+  date: October 1-6, 2023
+  start: 2023-10-01
+  end: 2023-10.06
   hindex: 105
   sub: [ML,AI]
   ccf: B
@@ -93,10 +95,25 @@
   sub: ML
   note: Check the conference website for workshop and demo deadlines
   
+- title: ICCBR
+  year: 2022
+  id: iccbr22  # title as lower case + last two digits of year
+  ccf: B
+  full_name: International Conference on Case-Based Reasoning
+  link: https://iccbr2022.loria.fr/call-for-papers/
+  deadline: '2022-05-01 23:59:59'
+  timezone: UTC-12
+  place: Nancy, France
+  date: September 12-15, 2022
+  start: 2022-09-12
+  end: 2022-09-15
+  sub: [AI]
+  
 - title: ICLR
   year: 2023
   id: iclr23
   ccf: N
+  full_name: International Conference on Learning Representations
   link: https://iclr.cc/
   deadline: '2022-09-28 23:59:59'
   abstract_deadline: '2022-09-21 23:59:59'
@@ -104,9 +121,8 @@
   place: Kigali, Rwanda
   date: May 01-05, 2023
   start: 2023-05-01
-  end: 2022-05-05
-  hindex: 286
-  sub: ML
+  end: 2023-05-05
+  sub: [ML,AI]
   note: Mandatory abstract deadline on September 21, 2022. More info <a href='https://iclr.cc/Conferences/2023/CallForPapers'>here</a>.
 
 
@@ -114,6 +130,7 @@
   year: 2023
   id: icml23
   ccf: A
+  full_name: International Conference on Machine Learning
   link: https://icml.cc/
   deadline: '2023-01-26 13:00:00'
   timezone: America/Los_Angeles
@@ -157,6 +174,7 @@
   year: 2023
   id: ijcai23
   ccf: A
+  full_name: International Joint Conference on Artificial Intelligence
   link: https://ijcai-23.org/
   deadline: '2023-01-18 23:59:59'
   timezone: UTC-12
@@ -172,6 +190,7 @@
   year: 2023
   id: ijcnn23
   ccf: C
+  full_name: International Joint Conference on Neural Networks
   link: https://2023.ijcnn.org/authors/key-dates
   deadline: '2023-01-31 23:59:59'
   timezone: UTC-12
@@ -202,6 +221,7 @@
   year: 2022
   id: neurips22
   ccf: A
+  full_name: Annual Conference on Neural Information Processing Systems
   link: https://neurips.cc/Conferences/2022/
   deadline: '2022-05-19 13:00:00'
   abstract_deadline: '2022-05-16 13:00:00'
@@ -280,6 +300,7 @@
   year: 2023
   id: cvpr23
   ccf: A
+  full_name: IEEE Conference on Computer Vision and Pattern Recognition
   link: http://cvpr2023.thecvf.com/
   deadline: '2022-11-11 23:59:59'
   timezone: America/Los_Angeles
@@ -295,6 +316,7 @@
   id: eccv22
   ccf: B
   link: https://eccv2022.ecva.net/
+  full_name: European Conference on Computer Vision
   deadline: '2022-03-07 21:59:00'
   timezone: CET
   place: Tel Aviv, Israel
@@ -312,6 +334,7 @@
   link: http://iccv2023.thecvf.com/
   deadline: '2023-03-08 23:59:00'
   timezone: UTC
+  full_name: International Conference on Computer Vision
   place: Paris, France
   date: September 30th - October 6, 2023
   start: 2023-09-30
@@ -408,7 +431,7 @@
   start: 2022-07-23
   end: 2022-07-27
   hindex: 66
-  sub: DM
+  sub: [DM,Data]
   ccf: A
   note: Mandatory abstract deadline on January 21, 2022. More info <a href='https://sigir.org/sigir2022/call-for-papers/'>here</a>.
 
@@ -438,7 +461,7 @@
   start: 2022-04-30
   end: 2022-05-04
   hindex: 70
-  sub: [DM,AI]
+  sub: [DM,Inter]
   ccf: A
   note: Mandatory abstract deadline on October 6, 2022
 
@@ -519,6 +542,7 @@
   id: acl23
   ccf: A
   link: https://2023.aclweb.org/
+  full_name: Annual Meeting of the Association for Computational Linguistics
   deadline: '2023-01-20 23:59:00'
   abstract_deadline: '2023-01-13 23:59:00'
   timezone: UTC-12
@@ -578,6 +602,7 @@
   year: 2022
   id: emnlp22
   ccf: B
+  full_name: Conference on Empirical Methods in Natural Language  Processing
   link: https://2022.emnlp.org/
   deadline: '2022-06-24 23:59:00'
   abstract_deadline: '2022-06-17 23:59:00'
@@ -594,6 +619,7 @@
   year: 2022
   id: naacl22
   ccf: C
+  full_name: North American Chapter of the Association for Computational Linguistics
   link: https://2022.naacl.org/
   deadline: '2022-01-15 23:59:00'
   timezone: UTC-12
@@ -603,6 +629,21 @@
   end: 2022-07-15
   hindex: 105
   sub: NLP
+
+
+- title: NLPCC
+  year: 2022
+  id: nlpcc
+  ccf: C
+  full_name: CCF International Conference on Natural Language Processing and Chinese Computing
+  link: http://tcci.ccf.org.cn/conference/2022/cfp.php
+  deadline: '2022-05-13 23:59:00'
+  timezone: UTC-12
+  place: Seattle, Washington, USA
+  date: September 22-25, 2022
+  start: 2022-09-22
+  end: 2022-09-25
+  sub: [NLP,AI]
 
 - title: AAMAS
   year: 2023
@@ -630,7 +671,7 @@
   place: Prague, Czech Republic
   date: Jul 08-13, 2023
   start: 2023-07-08
-  end: 2022-07-13
+  end: 2023-07-13
   hindex: 27
   sub: [AP,AI]
   ccf: B
@@ -640,6 +681,7 @@
   year: 2023
   id: icra23
   link: https://www.icra2023.org/
+  full_name: IEEE International Conference on Robotics and Automation
   deadline: '2022-09-15 23:59:59'
   timezone: America/Los_Angeles
   place: ExCeL London, UK

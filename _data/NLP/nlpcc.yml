@@ -1,0 +1,15 @@
+
+
+- title: NLPCC
+  year: 2022
+  id: nlpcc
+  ccf: C
+  full_name: CCF International Conference on Natural Language Processing and Chinese Computing
+  link: http://tcci.ccf.org.cn/conference/2022/cfp.php
+  deadline: '2022-05-13 23:59:00'
+  timezone: UTC-12
+  place: Seattle, Washington, USA
+  date: September 22-25, 2022
+  start: 2022-09-22
+  end: 2022-09-25
+  sub: [NLP,AI]

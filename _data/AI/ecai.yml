@@ -1,17 +1,17 @@
 
 - title: ECAI
-  year: 2022
-  id: ecai22
+  year: 2023
+  id: ecai23
   full_name: International Joint Conference on Artificial Intelligence and European
     Conference on Artificial Intelligence
-  link: https://ijcai-22.org/
-  deadline: '2022-01-14 23:59:59'
+  link: https://ecai2023.eu/
+  deadline: '2022-04-20 23:59:59'
   abstract_deadline: '2022-01-07 23:59:59'
   timezone: UTC+1
-  place: Vienna, Austria
-  date: July 23-29, 2022
-  start: 2022-07-23
-  end: 2022-07-29
+  place: Krakow, Poland
+  date: October 1-6, 2023
+  start: 2023-10-01
+  end: 2023-10.06
   hindex: 105
   sub: [ML,AI]
   ccf: B

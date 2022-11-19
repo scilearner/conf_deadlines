@@ -1,15 +1,15 @@
 
 - title: COLT
-  year: 2020
-  id: colt20
-  link: http://www.learningtheory.org/colt2020/
-  deadline: '2020-01-31 16:00:00'
+  year: 2023
+  id: colt23
+  full_name: Annual Conference on Computational Learning Theory
+  link: http://www.learningtheory.org/colt2023/
+  deadline: '2020-02-10 23:59:00'
   timezone: America/Los_Angeles
-  place: Graz, Austria
-  date: June 8-12, 2020
-  start: 2020-06-08
-  end: 2020-06-12
-  paperslink: http://proceedings.mlr.press/v125/
+  place: Bangalore, India
+  date: June 19-22, 2023
+  start: 2020-06-19
+  end: 2020-06-22
   hindex: 48
   sub: [ML,AI]
   ccf: B
