@@ -56,17 +56,38 @@
                   To view them in conference website timezones, click on them.
                 </span>
               </div>
-              <div class="meta col-12">
+              <div class="meta col-6">
                 You can optionally export all deadlines to
                 <a href="https://calendar.google.com/calendar/r?cid={{ site.url }}/ai-deadlines.ics">Google Calendar</a> or
                 <a href="/ai-deadlines.ics">.ics</a>.
               </div>
+                 <div style="float:right">
+              <div role="group" aria-label="checkbox-group" class="el-checkbox-group rankbox">
+                <label role="checkbox" class="checkbox">
+                  <input type="checkbox" checked  class="ccfcheck" value="A">
+                  <span class="el-checkbox-button__inner">CCF A</span>
+                </label>
+                <label role="checkbox" class="checkbox">
+                  <input type="checkbox" checked  class="ccfcheck" value="B">
+                  <span class="el-checkbox-button__inner">CCF B</span>
+                </label>
+                <label role="checkbox" class="checkbox">
+                  <input type="checkbox" checked  class="ccfcheck" value="C">
+                  <span class="el-checkbox-button__inner">CCF C</span>
+                </label>
+                <label role="checkbox" class="checkbox">
+                  <input type="checkbox" checked  class="ccfcheck" value="N">
+                  <span class="el-checkbox-button__inner">Non-CCF</span>
+                </label>
+              </div>
             </div>
+            </div>
+         
         </div>
         <div id="confs">
         <div id="coming_confs">
           {% for conf in site.data.conferences %}
-          <div id="{{conf.id}}" class="ConfItem {% for sub in conf.sub %} {{sub}}-conf {% endfor %}">
+          <div id="{{conf.id}}" class="ConfItem {% for sub in conf.sub %} {{sub}}-conf {% endfor %} CCF-{{conf.ccf}}">
             <div class="row conf-row">
                 <div class="col-6">
                   <span class="conf-title">
@@ -108,6 +129,11 @@
                 {% if conf.note %}
                   <div class="note">
                       <b>Note: </b>{{conf.note}}
+                  </div>
+                {% endif %}
+                {% if conf.ccf %}
+                  <div class="note">
+                    <span class="rank" style="border: 1px solid #b3d8ff; color: #409eff">CCF-{{conf.ccf}}</span>
                   </div>
                 {% endif %}
 
@@ -251,6 +277,17 @@
 
     });
     {% include google_analytics.js %}
+
+    $('.ccfcheck').click(function() {
+        if($(this).prop("checked") == true) {
+          // alert("Checkbox is checked.");
+          $(".CCF-" + $(this).val()).show();
+        }
+        else if($(this).prop("checked") == false) {
+          // alert("Checkbox is unchecked.");
+          $(".CCF-" + $(this).val()).hide();
+        }
+    });
     </script>
   </body>
 </html>

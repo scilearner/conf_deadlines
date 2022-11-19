@@ -26,3 +26,6 @@
 - name: Knowledge Representation
   sub: KR
   color: "#32a855"
+- name: 人工智能
+  sub: AI
+  color: "#32a855"

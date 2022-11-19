@@ -1,19 +1,41 @@
-## AI Deadlines [![Build Status](https://travis-ci.com/abhshkdz/ai-deadlines.svg?branch=gh-pages)](https://travis-ci.com/abhshkdz/ai-deadlines)
+# Conference Deadlines 
 
 Countdown timers to keep track of a bunch of CV/NLP/ML/RO conference deadlines.
 
+试图结合 [ai-deadlines](https://github.com/paperswithcode/ai-deadlines) 与 [ccf-deadlines](https://github.com/ccfddl/ccf-deadlines)
+
+## 运行
+
+windows下 我用git bash没成功， 用 command prompt
+
+```
+bundle exec jekyll serve
+```
+
+## 安装包
+
+需要 ruby + gem + bundler + jekyll
+
+ruby 和 gem  https://rubyinstaller.org/downloads/ , version Ruby+Devkit 3.1.2-1 (x64) , 安装路径好像不能更改
+
+bundler + jekyll 见 https://jekyllrb.com/ `gem install bundler jekyll`
+ 
+
+## 代码改动
+
+以 ai-deadlines的代码为基础， 因为我不认识ccf-deadlines用的技术，是 vue.js?
+
+1. 在`.yml`文件里 加入 CCF 等级属性，在`_data/types.html`里添加 AI人工智能 类别
+2. ai-deadlines 只使用一个 `_data/conferences.yml`, 过于臃肿， 学ccf-deadlines拆分成每个会议各占一个文件， 但需要用 merge.sh 合并——因为我也不会写ruby.
+
+好像是调用了 `utils/process.py`, 但不确定
+
 ## Contributing
-
-[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/0)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/0)[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/1)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/1)[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/2)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/2)[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/3)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/3)[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/4)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/4)[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/5)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/5)[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/6)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/6)[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/7)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/7)
-
-Contributions are very welcome!
-
-To keep things minimal, I'm only looking to list top-tier conferences in AI as per [conferenceranks.com][6] and my judgement calls. Please feel free to maintain a separate fork if you don't see your sub-field or conference of interest listed.
 
 To add or update a deadline:
 - Fork the repository
-- Update `_data/conferences.yml`
-- Make sure it has the `title`, `year`, `id`, `link`, `deadline`, `timezone`, `date`, `place`, `sub` attributes
+- Update 更新 或 添加 对应文件夹下的 name.yml
+- Make sure it has the `title`, `year`, `id`, `link`, `deadline`, `timezone`, `date`, `place`, `sub`, `ccf` attributes
     + See available timezone strings [here](https://momentjs.com/timezone/).
 - Optionally add a `note` and `abstract_deadline` in case the conference has a separate mandatory abstract deadline
 - Optionally add `hindex` (refers to h5-index from [here](https://scholar.google.com/citations?view_op=top_venues&vq=eng))
@@ -22,6 +44,7 @@ To add or update a deadline:
     - title: BestConf
       year: 2022
       id: bestconf22  # title as lower case + last two digits of year
+      ccf: A
       full_name: Best Conference for Anything  # full conference name
       link: link-to-website.com
       deadline: YYYY-MM-DD HH:SS
