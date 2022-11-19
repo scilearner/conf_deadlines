@@ -3,10 +3,10 @@
   sub: AI
   color: "#32a855"
 - name: 交叉学科
-  sub: Inter
+  sub: INTER
   color: "#ffd300"
 - name: 数据库/挖掘/检索
-  sub: Data
+  sub: DATA
   color: "#deff0a"
 - name: 图形学与多媒体
   sub: CGMM
