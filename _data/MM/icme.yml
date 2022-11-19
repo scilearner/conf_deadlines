@@ -1,0 +1,15 @@
+
+- title: ICME
+  year: 2023
+  id: icme23
+  ccf: B
+  link: https://2021.ieeeicme.org/
+  deadline: '2022-12-11 23:59:59'
+  timezone: America/Los_Angeles
+  place: Shenzhen, China
+  date: July 10-14, 2023
+  start: 2023-07-10
+  end: 2023-07-14
+  paperslink: https://www.2023.ieeeicme.org/general-calls.php
+  hindex: 30
+  sub: [CG,CV]

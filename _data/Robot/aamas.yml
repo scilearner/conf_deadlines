@@ -1,0 +1,16 @@
+
+- title: AAMAS
+  year: 2023
+  id: aamas23
+  link: https://aamas2023.soton.ac.uk/
+  deadline: '2022-10-28 23:59:59'
+  abstract_deadline: '2022-10-21 23:59:59'
+  timezone: UTC-12
+  place: London, UK
+  date: May 29 - June 2, 2023
+  start: 2023-05-29
+  end: 2023-06-02
+  hindex: 25
+  sub: ML
+  ccf: B
+  note: Mandatory abstract deadline on Oct 21, 2022. More info <a href='https://aamas2023.soton.ac.uk/calls/call-for-papers/'>here</a>.

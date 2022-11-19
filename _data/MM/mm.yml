@@ -1,0 +1,16 @@
+
+- title: MM
+  year: 2022
+  id: mm22
+  link: https://2022.acmmm.org/
+  deadline: '2022-04-11 23:59:59'
+  abstract_deadline: '2022-03-31 23:59:59'
+  timezone: UTC-12
+  place: Lisbon, Portugal
+  date: October 10-14, 2022
+  start: 2022-10-10
+  end: 2022-10-14
+  hindex: 58
+  sub: [CG,CV]
+  ccf: A
+  note: Mandatory abstract deadline on March 31, 2022. More info <a href='https://2022.acmmm.org/call-for-papers/'>here</a>.

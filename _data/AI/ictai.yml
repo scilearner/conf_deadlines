@@ -1,0 +1,16 @@
+
+
+- title: ICTAI
+  year: 2022
+  id: ICTAI22
+  ccf: C
+  link: https://ictai.computer.org/2022/
+  deadline: '2022-08-08 23:59:59'
+  timezone: UTC-12
+  place: Virtual
+  date: Nov 1-2, 2022
+  start: 2022-11-01
+  end: 2022-11-02
+  hindex: 120
+  sub: [ML,CV,AI]
+

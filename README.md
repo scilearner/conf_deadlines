@@ -57,7 +57,7 @@ To add or update a deadline:
       paperslink: link-to-full-paper-list.com
       pwclink: link-to-papers-with-code.com
       hindex: 100.0
-      sub: SP
+      sub: [SP,CV,AI]
       note: Important
     ```
 - Send a pull request
