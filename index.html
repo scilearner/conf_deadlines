@@ -144,6 +144,14 @@
                     <span class="deadline-time"></span>
                   </div>
                 </div>
+                {% if conf.notification %}
+                <div class="deadline">
+                  <div>Notification:
+                    <span class="nofitication-time">{{conf.notification}}</span>
+                  </div>
+                </div>
+                
+                {% endif %}
                 <div class="calendar"></div>
               </div>
             </div>
@@ -152,6 +160,7 @@
                 {% for sub in conf.sub %}
                 <span title="Click to only show {{sub}} conferences" data-sub="{{sub}}" class="conf-sub {{sub}}-tag"></span>
                 {% endfor %}
+                <!-- <span title="Click to only show {{conf.ccf}} conferences" data-sub="{{conf.ccf}}" class="conf-sub {{conf.ccf}}-tag">CCF-{{conf.ccf}}</span> -->
               </div>
             </div>
             <hr>
