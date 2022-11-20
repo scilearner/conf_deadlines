@@ -1,0 +1,15 @@
+
+- title: SIGMOD
+  year: 2023
+  id: sigmod23
+  full_name: ACM Conference on Management of Data
+  link: https://2023.sigmod.org/
+  deadline: '2022-04-15 23:59:00'
+  timezone: PDT
+  place: Seattle, USA
+  date: June 18-23, 2022
+  start: 2023-06-18
+  end: 2023-06-23
+  sub: [DM,DATA]
+  ccf: A
+  note: 3 rounds

@@ -1,0 +1,15 @@
+
+- title: ICDAR
+  year: 2023
+  id: icdar23
+  ccf: C
+  full_name: International Conference on Document Analysis and Recognition
+  link: https://icdar2023.org/
+  deadline: '2023-01-15 23:59:00'
+  abstract_deadline: '2023-03-26 23:59:00'
+  timezone: UTC-12
+  place: California, USA
+  date: August 21-26, 2022
+  start: 2023-08-21
+  end: 2023-08-26
+  sub: [NLP,AI]

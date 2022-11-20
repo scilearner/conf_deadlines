@@ -1,0 +1,16 @@
+
+- title: GECCO
+  year: 2023
+  id: gecco23
+  ccf: C
+  link: https://gecco-2023.sigevo.org/Call-for-Papers
+  full_name: Genetic and Evolutionary Computation Conference
+  deadline: '2023-02-10 23:59:00'
+  abstract_deadline: '2023-02-03 23:59:00'
+  notification: '2023-03-31 23:59:00'
+  timezone: UTC-12
+  place: Lisboa, Portugal
+  date: July 15-19, 2023
+  start: 2023-07-15
+  end: 2023-07-19
+  sub: [AI]

@@ -1,0 +1,17 @@
+
+
+- title: FG
+  year: 2023
+  id: fg23
+  ccf: C
+  full_name: International Conference on Automatic Face and Gesture Recognition
+  link: http://fg2023.ieee-biometrics.org/dates/
+  deadline: '2022-07-15 23:59:59'
+  notification: '2022-09-10 23:59:59'
+  timezone: UTC
+  place: Hawaii, USA
+  date: January 05-08, 2023
+  start: 2023-01-05
+  end: 2023-01-08
+  sub: [AI]
+

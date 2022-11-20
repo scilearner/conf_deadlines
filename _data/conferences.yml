@@ -15,21 +15,6 @@
   hindex: 95
   sub: [ML,AI]
 
-- title: ACML
-  year: 2022
-  id: acml22
-  full_name: Asian Conference on Machine Learning
-  link: https://www.acml-conf.org/2022
-  deadline: '2022-06-23 23:59:00'
-  timezone: UTC-12
-  place: Hyderabad, India
-  date: December 12-14, 2022
-  start: 2022-12-12
-  end: 2022-12-14
-  hindex: 20
-  sub: [ML,AI]
-  ccf: C
-
   
 - title: AISTATS
   year: 2023
@@ -47,17 +32,32 @@
   note: Mandatory abstract deadline on Oct 6, 2022. More info <a href='https://aistats.org/aistats2023/call-for-papers.html'>here</a>.
   ccf: C
 
+- title: ALT
+  year: 2023
+  id: alt23
+  ccf: C
+  link: http://algorithmiclearningtheory.org/alt2023/call-for-papers/
+  full_name: Algorithmic Learning Theory
+  deadline: '2022-09-30 23:59:00'
+  notification: '2022-12-21 23:59:00'
+  timezone: UTC-12
+  place: Singapore
+  date: Feb 20-23, 2023
+  start: 2023-02-20
+  end: 2023-02-23
+  sub: [ML,AI]
+
 - title: COLT
   year: 2023
   id: colt23
   full_name: Annual Conference on Computational Learning Theory
   link: http://www.learningtheory.org/colt2023/
-  deadline: '2020-02-10 23:59:00'
+  deadline: '2023-02-10 23:59:00'
   timezone: America/Los_Angeles
   place: Bangalore, India
   date: June 19-22, 2023
-  start: 2020-06-19
-  end: 2020-06-22
+  start: 2023-06-19
+  end: 2023-06-22
   hindex: 48
   sub: [ML,AI]
   ccf: B
@@ -65,8 +65,7 @@
 - title: ECAI
   year: 2023
   id: ecai23
-  full_name: International Joint Conference on Artificial Intelligence and European
-    Conference on Artificial Intelligence
+  full_name: International Joint Conference on Artificial Intelligence and European Conference on Artificial Intelligence
   link: https://ecai2023.eu/
   deadline: '2022-04-20 23:59:59'
   abstract_deadline: '2022-01-07 23:59:59'
@@ -74,27 +73,26 @@
   place: Krakow, Poland
   date: October 1-6, 2023
   start: 2023-10-01
-  end: 2023-10.06
-  hindex: 105
+  end: 2023-10-06
   sub: [ML,AI]
   ccf: B
 
-- title: ECML/PKDD
-  year: 2022
-  id: ecmlpkdd22  # title as lower case + last two digits of year
-  ccf: B
-  full_name: European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases # full conference name
-  link: https://2022.ecmlpkdd.org/
-  deadline: '2022-04-06 23:59:59'
-  abstract_deadline: '2022-03-30 23:59:59'
+- title: GECCO
+  year: 2023
+  id: gecco23
+  ccf: C
+  link: https://gecco-2023.sigevo.org/Call-for-Papers
+  full_name: Genetic and Evolutionary Computation Conference
+  deadline: '2023-02-10 23:59:00'
+  abstract_deadline: '2023-02-03 23:59:00'
+  notification: '2023-03-31 23:59:00'
   timezone: UTC-12
-  place: Grenoble, France
-  date: September, 19-23, 2022
-  start: 2022-09-19
-  end: 2022-09-23
-  sub: [ML,DATA]
-  note: Check the conference website for workshop and demo deadlines
-  
+  place: Lisboa, Portugal
+  date: July 15-19, 2023
+  start: 2023-07-15
+  end: 2023-07-19
+  sub: [AI]
+
 - title: ICCBR
   year: 2022
   id: iccbr22  # title as lower case + last two digits of year
@@ -109,37 +107,6 @@
   end: 2022-09-15
   sub: [AI]
   
-- title: ICLR
-  year: 2023
-  id: iclr23
-  ccf: N
-  full_name: International Conference on Learning Representations
-  link: https://iclr.cc/
-  deadline: '2022-09-28 23:59:59'
-  abstract_deadline: '2022-09-21 23:59:59'
-  timezone: UTC-12
-  place: Kigali, Rwanda
-  date: May 01-05, 2023
-  start: 2023-05-01
-  end: 2023-05-05
-  sub: [ML,AI]
-  note: Mandatory abstract deadline on September 21, 2022. More info <a href='https://iclr.cc/Conferences/2023/CallForPapers'>here</a>.
-
-
-- title: ICML
-  year: 2023
-  id: icml23
-  ccf: A
-  full_name: International Conference on Machine Learning
-  link: https://icml.cc/
-  deadline: '2023-01-26 13:00:00'
-  timezone: America/Los_Angeles
-  place: Hawai'i, USA
-  date: July 23-29, 2023
-  start: 2023-07-23
-  end: 2023-07-29
-  hindex: 204
-  sub: [ML,AI]
 - title: ICPR
   year: 2022
   id: ICPR22
@@ -151,7 +118,6 @@
   date: Jun 18-23, 2023
   start: 2023-07-22
   end: 2023-07-28
-  hindex: 120
   sub: [ML,CV,AI]
 
 
@@ -186,20 +152,35 @@
   sub: [ML,AI]
   note: Mandatory abstract deadline on Jan 11, 2023, and supplementary material deadline on Jan 23, 2023. More info <a href='https://ijcai-23.org/'>here</a>.
 
-- title: IJCNN
-  year: 2023
-  id: ijcnn23
+- title: ICB
+  year: 2022
+  id: icb22
   ccf: C
-  full_name: International Joint Conference on Neural Networks
-  link: https://2023.ijcnn.org/authors/key-dates
-  deadline: '2023-01-31 23:59:59'
-  timezone: UTC-12
-  place: Queensland, Australia
-  date: Jun 18-23, 2023
-  start: 2023-06-18
-  end: 2023-06-23
-  hindex: 120
-  sub: [ML,CV,AI]
+  link: http://ijcb2022.org/
+  full_name: International Joint Conference on Biometrics
+  deadline: '2022-05-16 23:59:00'
+  notification: '2022-07-18 23:59:00'
+  timezone: PDT
+  place: Abu Dhabi, United Arab Emirates
+  date: Oct 10-13, 2022
+  start: 2022-10-10
+  end: 2022-10-13
+  sub: [AI]
+
+- title: ILP
+  year: 2022
+  id: ILP22
+  full_name:  International Conference on Inductive Logic Programming
+  link: https://ijclr22.doc.ic.ac.uk/ilp2022.html/
+  deadline: '2022-06-07 23:59:00'
+  notification: '2022-07-30 23:59:00'
+  place: Windsor Great Park, United Kingdom
+  date: Sep 28-30, 2022
+  start: 2022-09-28
+  end: 2022-09-30
+  hindex: 48
+  sub: [ML,AI]
+  ccf: B
 
 - title: KR
   year: 2023
@@ -217,23 +198,35 @@
   ccf: B
   note: Mandatory abstract deadline on March 07, 2023. More info <a href='https://kr.org/KR2023/'>here</a>.
 
-- title: NeurIPS
+- title: KSEM
   year: 2022
-  id: neurips22
-  ccf: A
-  full_name: Annual Conference on Neural Information Processing Systems
-  link: https://neurips.cc/Conferences/2022/
-  deadline: '2022-05-19 13:00:00'
-  abstract_deadline: '2022-05-16 13:00:00'
-  timezone: America/Los_Angeles
-  place: New Orleans, Louisiana, USA; and virtual
-  date: November 28 - December 9, 2022
-  start: 2022-11-28
-  end: 2022-12-09
-  hindex: 245
+  id: ksem22
+  ccf: C
+  full_name: International Conference on Knowledge Science, Engineering and Management
+  link: https://ksem22.smart-conf.net/
+  deadline: '2022-03-15 23:59:00'
+  notification: '2022-05-15 23:59:00'
+  place: Singapore
+  date: Aug 6, 2022 - Aug 8, 2022
+  start: 2022-08-06
+  end: 2022-08-08
   sub: [ML,AI]
-  note: Mandatory abstract deadline on May 16, 2022
   
+
+- title: PRICAI
+  year: 2022
+  id: pricai22
+  full_name: Pacific Rim International Conference on Artificial Intelligence
+  link: https://www.pricai.org/2022/
+  deadline: '2022-06-29 23:59:59'
+  notification: '2022-08-15 23:59:00'
+  timezone: UTC-12
+  place: Shanghai, China
+  date:  November 10-13, 2022
+  start: 2022-11-10
+  end: 2022-11-13
+  sub: [ML,AI]
+  ccf: C
 
 
 - title: UAI
@@ -262,7 +255,7 @@
   end: 2021-08-05
   paperslink: https://s2021.siggraph.org/full-program/
   hindex: 19
-  sub: CV
+  sub: [CV,CGMM]
   ccf: A
   note: Mandatory abstract deadline on Jan 27, 2021. More info <a href='https://s2021.siggraph.org/program/technical-papers/'>here</a>.
 
@@ -327,6 +320,23 @@
   sub: [CV,AI]
 
 
+
+- title: FG
+  year: 2023
+  id: fg23
+  ccf: C
+  full_name: International Conference on Automatic Face and Gesture Recognition
+  link: http://fg2023.ieee-biometrics.org/dates/
+  deadline: '2022-07-15 23:59:59'
+  notification: '2022-09-10 23:59:59'
+  timezone: UTC
+  place: Hawaii, USA
+  date: January 05-08, 2023
+  start: 2023-01-05
+  end: 2023-01-08
+  sub: [AI]
+
+
 - title: ICCV
   year: 2023
   id: iccv2023
@@ -373,6 +383,20 @@
   ccf: B
   note: Mandatory abstract deadline on May 12, 2022
 
+- title: ICDE
+  year: 2023
+  id: icde23
+  link: https://icde2023.ics.uci.edu/research-papers-track/
+  deadline: '2022-04-25 23:59:59'
+  timezone: PST
+  place: Anaheim, California, USA
+  date: April 3-7, 2022
+  start: 2023-04-03
+  end: 2023-04-07
+  sub: [DM,DATA]
+  ccf: A
+  note: 3 rounds of research paper submissions
+
 - title: ICDM
   year: 2022
   id: icdm22
@@ -408,8 +432,9 @@
   id: pakdd23
   ccf: C
   link: https://pakdd2023.org
-  deadline: '2022-11-24 23:59:59'
-  timezone: UTC-8
+  deadline: '2022-12-07 23:59:59'
+  notification: '2023-02-07 23:59:59'
+  timezone: PST
   place: Osaka, Japan
   date: May 25-28, 2023
   start: 2022-05-25
@@ -417,6 +442,19 @@
   hindex: 29
   sub: [DM, DATA, CV]
   
+- title: SDM
+  year: 2023
+  id: sdm23
+  link: https://www.siam.org/conferences/cm/conference/sdm23
+  deadline: '2022-10-07 23:59:00'
+  timezone: UTC-12
+  place: Minneapolis, USA
+  date: April 27-29, 2023
+  start: 2023-04-27
+  end: 2023-04-29
+  sub: [DM,DATA]
+  ccf: B
+
 
 - title: SIGIR
   year: 2023
@@ -433,6 +471,21 @@
   sub: [DM,DATA]
   ccf: A
   note: Mandatory abstract deadline on January 21, 2022. More info <a href='https://sigir.org/sigir2022/call-for-papers/'>here</a>.
+
+- title: SIGMOD
+  year: 2023
+  id: sigmod23
+  full_name: ACM Conference on Management of Data
+  link: https://2023.sigmod.org/
+  deadline: '2022-04-15 23:59:00'
+  timezone: PDT
+  place: Seattle, USA
+  date: June 18-23, 2022
+  start: 2023-06-18
+  end: 2023-06-23
+  sub: [DM,DATA]
+  ccf: A
+  note: 3 rounds
 
 - title: WSDM
   year: 2023
@@ -463,6 +516,131 @@
   sub: [DM,INTER]
   ccf: A
   note: Mandatory abstract deadline on October 6, 2022
+
+- title: ACML
+  year: 2022
+  id: acml22
+  full_name: Asian Conference on Machine Learning
+  link: https://www.acml-conf.org/2022
+  deadline: '2022-06-23 23:59:00'
+  timezone: UTC-12
+  place: Hyderabad, India
+  date: December 12-14, 2022
+  start: 2022-12-12
+  end: 2022-12-14
+  hindex: 20
+  sub: [ML,AI]
+  ccf: C
+
+- title: ECML/PKDD
+  year: 2022
+  id: ecmlpkdd22  # title as lower case + last two digits of year
+  ccf: B
+  full_name: European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases # full conference name
+  link: https://2022.ecmlpkdd.org/
+  deadline: '2022-04-06 23:59:59'
+  abstract_deadline: '2022-03-30 23:59:59'
+  timezone: UTC-12
+  place: Grenoble, France
+  date: September, 19-23, 2022
+  start: 2022-09-19
+  end: 2022-09-23
+  sub: [ML,DATA]
+  note: Check the conference website for workshop and demo deadlines
+  
+- title: ICANN
+  year: 2022
+  id: icann22
+  ccf: C
+  link: https://e-nns.org/icann2022/important-dates/
+  full_name: International Conference on Artificial Neural Networks
+  deadline: '2022-04-13 23:59:00'
+  notification: '2022-06-20 23:59:00'
+  timezone: UTC-12
+  place: Bristol, United Kingdom
+  date: Sep 06-09, 2022
+  start: 2022-09-06
+  end: 2022-09-09
+  sub: [ML,AI]
+
+- title: ICLR
+  year: 2023
+  id: iclr23
+  ccf: N
+  full_name: International Conference on Learning Representations
+  link: https://iclr.cc/
+  deadline: '2022-09-28 23:59:59'
+  abstract_deadline: '2022-09-21 23:59:59'
+  timezone: UTC-12
+  place: Kigali, Rwanda
+  date: May 01-05, 2023
+  start: 2023-05-01
+  end: 2023-05-05
+  sub: [ML,AI]
+  note: Mandatory abstract deadline on September 21, 2022. More info <a href='https://iclr.cc/Conferences/2023/CallForPapers'>here</a>.
+
+
+- title: ICML
+  year: 2023
+  id: icml23
+  ccf: A
+  full_name: International Conference on Machine Learning
+  link: https://icml.cc/
+  deadline: '2023-01-26 13:00:00'
+  timezone: America/Los_Angeles
+  place: Hawai'i, USA
+  date: July 23-29, 2023
+  start: 2023-07-23
+  end: 2023-07-29
+  hindex: 204
+  sub: [ML,AI]
+- title: ICONIP
+  year: 2022
+  id: iconip22
+  ccf: C
+  full_name: International Conference on Neural Information Processing
+  link: https://neurips.cc/Conferences/2022/
+  deadline: '2022-07-28 23:59:00'
+  notification: '2022-09-15 23:59:00'
+  place: Indore, India
+  date: November 28 - December 9, 2022
+  start: 2022-11-22
+  end: 2022-11-26
+  sub: [ML,AI]
+  
+
+- title: IJCNN
+  year: 2023
+  id: ijcnn23
+  ccf: C
+  full_name: International Joint Conference on Neural Networks
+  link: https://2023.ijcnn.org/authors/key-dates
+  deadline: '2023-01-31 23:59:59'
+  timezone: UTC-12
+  place: Queensland, Australia
+  date: Jun 18-23, 2023
+  start: 2023-06-18
+  end: 2023-06-23
+  hindex: 120
+  sub: [ML,CV,AI]
+
+- title: NeurIPS
+  year: 2022
+  id: neurips22
+  ccf: A
+  full_name: Annual Conference on Neural Information Processing Systems
+  link: https://neurips.cc/Conferences/2022/
+  deadline: '2022-05-19 13:00:00'
+  abstract_deadline: '2022-05-16 13:00:00'
+  timezone: America/Los_Angeles
+  place: New Orleans, Louisiana, USA; and virtual
+  date: November 28 - December 9, 2022
+  start: 2022-11-28
+  end: 2022-12-09
+  hindex: 245
+  sub: [ML,AI]
+  note: Mandatory abstract deadline on May 16, 2022
+  
 
 - title: ICASSP
   year: 2023
@@ -592,7 +770,6 @@
   date: May 02-06, 2023
   start: 2023-05-02
   end: 2023-05-06
-  hindex: 62
   sub: NLP
   ccf: N
   note: Hybrid format with ARR and START. Above deadlines are for START. More info <a href="https://2023.eacl.org/calls/papers/">here</a>.
@@ -613,6 +790,21 @@
   hindex: 132
   sub: [NLP,AI]
   note: Hybrid format with ARR and START. More info <a href='https://2022.emnlp.org/calls/papers/Overview'>here</a>.
+
+- title: ICDAR
+  year: 2023
+  id: icdar23
+  ccf: C
+  full_name: International Conference on Document Analysis and Recognition
+  link: https://icdar2023.org/
+  deadline: '2023-01-15 23:59:00'
+  abstract_deadline: '2023-03-26 23:59:00'
+  timezone: UTC-12
+  place: California, USA
+  date: August 21-26, 2022
+  start: 2023-08-21
+  end: 2023-08-26
+  sub: [NLP,AI]
 
 - title: NAACL
   year: 2022
@@ -688,7 +880,7 @@
   start: 2023-05-29
   end: 2023-06-02
   hindex: 94
-  sub: RO
+  sub: [RO,AI]
   ccf: B
 
 - title: IROS
@@ -702,5 +894,5 @@
   start: 2023-10-01
   end: 2023-10-05
   hindex: 80
-  sub: RO
+  sub: [RO,AI]
   ccf: C

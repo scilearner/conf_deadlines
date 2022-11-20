@@ -2,8 +2,7 @@
 - title: ECAI
   year: 2023
   id: ecai23
-  full_name: International Joint Conference on Artificial Intelligence and European
-    Conference on Artificial Intelligence
+  full_name: International Joint Conference on Artificial Intelligence and European Conference on Artificial Intelligence
   link: https://ecai2023.eu/
   deadline: '2022-04-20 23:59:59'
   abstract_deadline: '2022-01-07 23:59:59'
@@ -11,7 +10,6 @@
   place: Krakow, Poland
   date: October 1-6, 2023
   start: 2023-10-01
-  end: 2023-10.06
-  hindex: 105
+  end: 2023-10-06
   sub: [ML,AI]
   ccf: B

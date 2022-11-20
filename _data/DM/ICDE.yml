@@ -1,0 +1,14 @@
+
+- title: ICDE
+  year: 2023
+  id: icde23
+  link: https://icde2023.ics.uci.edu/research-papers-track/
+  deadline: '2022-04-25 23:59:59'
+  timezone: PST
+  place: Anaheim, California, USA
+  date: April 3-7, 2022
+  start: 2023-04-03
+  end: 2023-04-07
+  sub: [DM,DATA]
+  ccf: A
+  note: 3 rounds of research paper submissions

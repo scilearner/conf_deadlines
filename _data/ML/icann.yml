@@ -1,0 +1,15 @@
+
+- title: ICANN
+  year: 2022
+  id: icann22
+  ccf: C
+  link: https://e-nns.org/icann2022/important-dates/
+  full_name: International Conference on Artificial Neural Networks
+  deadline: '2022-04-13 23:59:00'
+  notification: '2022-06-20 23:59:00'
+  timezone: UTC-12
+  place: Bristol, United Kingdom
+  date: Sep 06-09, 2022
+  start: 2022-09-06
+  end: 2022-09-09
+  sub: [ML,AI]
