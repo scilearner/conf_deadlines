@@ -5,8 +5,8 @@
   ccf: A
   full_name: International Conference on Machine Learning
   link: https://icml.cc/
-  deadline: '2023-01-26 13:00:00'
-  timezone: America/Los_Angeles
+  deadline: '2023-01-26 07:59:00'
+  timezone: UTC
   place: Hawai'i, USA
   date: July 23-29, 2023
   start: 2023-07-23
