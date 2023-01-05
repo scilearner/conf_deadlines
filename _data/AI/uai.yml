@@ -1,14 +1,15 @@
 
 
 - title: UAI
-  year: 2022
-  id: uai22
+  year: 2023
+  id: uai23
   ccf: B
-  link: https://www.auai.org/uai2022/
-  deadline: '2022-02-25 23:59:59'
-  timezone: UTC
-  place: Eindhoven, The Netherlands
-  date: August 1-5, 2022
-  start: 2022-08-01
-  end: 2022-08-05
+  link: https://www.auai.org/uai2023/
+  deadline: '2022-02-17 23:59:59'
+  notification: '2023-05-08 23:59:00'
+  timezone: AoE
+  place: Pittsburgh, USA
+  date: August 1-3, 2023
+  start: 2023-08-01
+  end: 2023-08-03
   sub: [ML,AI]

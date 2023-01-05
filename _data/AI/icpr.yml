@@ -3,11 +3,12 @@
   year: 2022
   id: ICPR22
   ccf: C
-  link: https://2023.ijcnn.org/authors/key-dates
+  link: https://www.icpr2022.com/
   deadline: '2022-01-24 23:59:59'
   timezone: UTC-12
   place: Cluj-Napoca, Romania
   date: Jun 18-23, 2023
   start: 2023-07-22
   end: 2023-07-28
+  note: 两年一届
   sub: [ML,CV,AI]

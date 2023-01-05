@@ -4,8 +4,9 @@
   year: 2023
   id: sigir23
   link: https://sigir.org/sigir2023/
-  deadline: '2022-01-31 23:59:00'
-  abstract_deadline: '2022-01-24 23:59:00'
+  deadline: '2023-01-31 23:59:00'
+  abstract_deadline: '2023-01-24 23:59:00'
+  notification: '2023-04-04 23:59:00'
   timezone: UTC-12
   place: Taipei, China
   date: July 23-27, 2022
@@ -14,4 +15,4 @@
   hindex: 66
   sub: [DM,DATA]
   ccf: A
-  note: Mandatory abstract deadline on January 21, 2022. More info <a href='https://sigir.org/sigir2022/call-for-papers/'>here</a>.
+  note: Mandatory abstract deadline on January 24, 2022. More info <a href='https://sigir.org/sigir2023/call-for-papers/'>here</a>.

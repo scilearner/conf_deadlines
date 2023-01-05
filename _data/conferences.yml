@@ -111,13 +111,14 @@
   year: 2022
   id: ICPR22
   ccf: C
-  link: https://2023.ijcnn.org/authors/key-dates
+  link: https://www.icpr2022.com/
   deadline: '2022-01-24 23:59:59'
   timezone: UTC-12
   place: Cluj-Napoca, Romania
   date: Jun 18-23, 2023
   start: 2023-07-22
   end: 2023-07-28
+  note: 两年一届
   sub: [ML,CV,AI]
 
 
@@ -230,23 +231,24 @@
 
 
 - title: UAI
-  year: 2022
-  id: uai22
+  year: 2023
+  id: uai23
   ccf: B
-  link: https://www.auai.org/uai2022/
-  deadline: '2022-02-25 23:59:59'
-  timezone: UTC
-  place: Eindhoven, The Netherlands
-  date: August 1-5, 2022
-  start: 2022-08-01
-  end: 2022-08-05
+  link: https://www.auai.org/uai2023/
+  deadline: '2022-02-17 23:59:59'
+  notification: '2023-05-08 23:59:00'
+  timezone: AoE
+  place: Pittsburgh, USA
+  date: August 1-3, 2023
+  start: 2023-08-01
+  end: 2023-08-03
   sub: [ML,AI]
 
 - title: SIGGRAPH
   year: 2023
   id: siggraph23
   link: https://s2023.siggraph.org/
-  deadline: '2023-01-26 22:00:00'
+  deadline: '2023-02-02 22:00:00'
   timezone: UTC
   place: Online
   date: August 6-10, 2023
@@ -412,16 +414,17 @@
   note: Paper submissions limited to ten (10) pages, in the IEEE 2-column format | <a href="https://icdm22.cse.usf.edu/key-dates.html"> Key Dates</a> | <a href="https://icdm22.cse.usf.edu/calls/Papers.html">Call for Papers </a>
 
 - title: KDD
-  year: 2022
-  id: kdd22
+  year: 2023
+  id: kdd
   ccf: A
-  link: https://www.kdd.org/kdd2022/
-  deadline: '2022-02-10 23:59:59'
+  link: https://www.kdd.org/kdd2023/
+  deadline: '2023-02-02 23:59:59'
+  notification: '2023-05-18 23:59:00'
   timezone: UTC-12
-  place: Washington, DC, USA
-  date: August 14-18, 2022
-  start: 2022-08-14
-  end: 2022-08-18
+  place: Califonia, USA
+  date: August 06-10, 2023
+  start: 2023-08-06
+  end: 2023-08-10
   hindex: 30
   sub: [DM,DATA]
 
@@ -458,8 +461,9 @@
   year: 2023
   id: sigir23
   link: https://sigir.org/sigir2023/
-  deadline: '2022-01-31 23:59:00'
-  abstract_deadline: '2022-01-24 23:59:00'
+  deadline: '2023-01-31 23:59:00'
+  abstract_deadline: '2023-01-24 23:59:00'
+  notification: '2023-04-04 23:59:00'
   timezone: UTC-12
   place: Taipei, China
   date: July 23-27, 2022
@@ -468,7 +472,7 @@
   hindex: 66
   sub: [DM,DATA]
   ccf: A
-  note: Mandatory abstract deadline on January 21, 2022. More info <a href='https://sigir.org/sigir2022/call-for-papers/'>here</a>.
+  note: Mandatory abstract deadline on January 24, 2022. More info <a href='https://sigir.org/sigir2023/call-for-papers/'>here</a>.
 
 - title: SIGMOD
   year: 2023
