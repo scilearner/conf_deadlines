@@ -64,11 +64,11 @@
 
 - title: ECAI
   year: 2023
-  id: ecai23
+  id: ecai
   full_name: International Joint Conference on Artificial Intelligence and European Conference on Artificial Intelligence
   link: https://ecai2023.eu/
-  deadline: '2022-04-20 23:59:59'
-  abstract_deadline: '2022-01-07 23:59:59'
+  deadline: '2023-04-25 23:59:59'
+  abstract_deadline: '2023-04-25 23:59:59'
   timezone: UTC+1
   place: Krakow, Poland
   date: October 1-6, 2023
@@ -200,17 +200,17 @@
   note: Mandatory abstract deadline on March 07, 2023. More info <a href='https://kr.org/KR2023/'>here</a>.
 
 - title: KSEM
-  year: 2022
-  id: ksem22
+  year: 2023
+  id: ksem
   ccf: C
   full_name: International Conference on Knowledge Science, Engineering and Management
-  link: https://ksem22.smart-conf.net/
-  deadline: '2022-03-15 23:59:00'
-  notification: '2022-05-15 23:59:00'
+  link: https://www.ksem2023.conferences.academy/
+  deadline: '2023-04-28 23:59:00'
+  notification: '2023-05-25 23:59:00'
   place: Singapore
-  date: Aug 6, 2022 - Aug 8, 2022
-  start: 2022-08-06
-  end: 2022-08-08
+  date: Aug 16, 2022 - Aug 18, 2022
+  start: 2023-08-16
+  end: 2023-08-18
   sub: [ML,AI]
   
 
@@ -235,7 +235,7 @@
   id: uai23
   ccf: B
   link: https://www.auai.org/uai2023/
-  deadline: '2022-02-17 23:59:59'
+  deadline: '2023-02-17 23:59:59'
   notification: '2023-05-08 23:59:00'
   timezone: AoE
   place: Pittsburgh, USA
@@ -551,18 +551,18 @@
   note: Check the conference website for workshop and demo deadlines
   
 - title: ICANN
-  year: 2022
-  id: icann22
+  year: 2023
+  id: icann
   ccf: C
-  link: https://e-nns.org/icann2022/important-dates/
+  link: https://e-nns.org/icann2023/important-dates/
   full_name: International Conference on Artificial Neural Networks
-  deadline: '2022-04-13 23:59:00'
-  notification: '2022-06-20 23:59:00'
+  deadline: '2022-04-09 23:59:00'
+  notification: '2022-06-30 23:59:00'
   timezone: UTC-12
-  place: Bristol, United Kingdom
-  date: Sep 06-09, 2022
-  start: 2022-09-06
-  end: 2022-09-09
+  place: Heraklion, Greece
+  date: Sep 26-29, 2023
+  start: 2022-09-26
+  end: 2022-09-29
   sub: [ML,AI]
 
 - title: ICLR
@@ -618,6 +618,7 @@
   full_name: International Joint Conference on Neural Networks
   link: https://2023.ijcnn.org/authors/key-dates
   deadline: '2023-01-31 23:59:59'
+  notification: '2023-03-31 23:59:59'
   timezone: UTC-12
   place: Queensland, Australia
   date: Jun 18-23, 2023
