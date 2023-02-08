@@ -1,15 +1,16 @@
 
 - title: MM
-  year: 2022
-  id: mm22
-  link: https://2022.acmmm.org/
-  deadline: '2022-04-11 23:59:59'
-  abstract_deadline: '2022-03-31 23:59:59'
+  year: 2023
+  id: mm
+  link: https://www.acmmm2023.org/dates
+  deadline: '2023-04-23 23:59:59'
+  abstract_deadline: '2023-04-30 23:59:59'
+  notification: 25 July 2023
   timezone: UTC-12
-  place: Lisbon, Portugal
-  date: October 10-14, 2022
-  start: 2022-10-10
-  end: 2022-10-14
+  place: Ottawa, Canada
+  date: October 29-December 03, 2023
+  start: 2023-10-29
+  end: 2023-11-03
   hindex: 58
   sub: [CG,CV,CGMM]
   ccf: A
