@@ -94,17 +94,18 @@
   sub: [AI]
 
 - title: ICCBR
-  year: 2022
-  id: iccbr22  # title as lower case + last two digits of year
+  year: 2023
+  id: iccbr  # title as lower case + last two digits of year
   ccf: B
   full_name: International Conference on Case-Based Reasoning
-  link: https://iccbr2022.loria.fr/call-for-papers/
-  deadline: '2022-05-01 23:59:59'
+  link: https://www.comp.rgu.ac.uk/ICCBR23/calls.html
+  deadline: '2023-04-14 23:59:59'
+  notification: '2023-05-12 23:59:59'
   timezone: UTC-12
-  place: Nancy, France
-  date: September 12-15, 2022
-  start: 2022-09-12
-  end: 2022-09-15
+  place: Aberdeen, Scotland
+  date: July 17-20, 2023
+  start: 2023-07-17
+  end: 2023-07-20
   sub: [AI]
   
 - title: ICPR
@@ -154,18 +155,17 @@
   note: Mandatory abstract deadline on Jan 11, 2023, and supplementary material deadline on Jan 23, 2023. More info <a href='https://ijcai-23.org/'>here</a>.
 
 - title: ICB
-  year: 2022
-  id: icb22
+  year: 2023
+  id: icb
   ccf: C
-  link: http://ijcb2022.org/
+  link: https://ijcb2023.ieee-biometrics.org/important-dates/
   full_name: International Joint Conference on Biometrics
-  deadline: '2022-05-16 23:59:00'
-  notification: '2022-07-18 23:59:00'
+  deadline: '2023-04-17 23:59:00'
   timezone: PDT
-  place: Abu Dhabi, United Arab Emirates
-  date: Oct 10-13, 2022
-  start: 2022-10-10
-  end: 2022-10-13
+  place: Ljubljana, Slovenia
+  date: September 25-28, 2023
+  start: 2023-09-25
+  end: 2023-09-28
   sub: [AI]
 
 - title: ILP
@@ -374,10 +374,10 @@
   deadline: '2022-05-19 23:59:59'
   abstract_deadline: '2022-05-12 23:59:59'
   timezone: UTC-12
-  place: Atlanta, Georgia, USA
-  date: October 17-22, 2022
-  start: 2022-10-17
-  end: 2022-10-22
+  place: Birmingham, UK
+  date: October 21-25, 2023
+  start: 2023-10-21
+  end: 2023-10-25
   hindex: 48
   sub: [DM,DATA]
   ccf: B
@@ -549,7 +549,7 @@
   start: 2023-09-18
   end: 2023-09-22
   sub: [ML,DATA]
-  note: Check the conference website for workshop and demo deadlines
+  note: No Rebuttal
   
 - title: ICANN
   year: 2023
@@ -629,18 +629,18 @@
   sub: [ML,CV,AI]
 
 - title: NeurIPS
-  year: 2022
-  id: neurips22
+  year: 2023
+  id: neurips
   ccf: A
   full_name: Annual Conference on Neural Information Processing Systems
-  link: https://neurips.cc/Conferences/2022/
-  deadline: '2022-05-19 13:00:00'
-  abstract_deadline: '2022-05-16 13:00:00'
-  timezone: America/Los_Angeles
-  place: New Orleans, Louisiana, USA; and virtual
-  date: November 28 - December 9, 2022
-  start: 2022-11-28
-  end: 2022-12-09
+  link: https://neurips.cc/Conferences/2023/
+  deadline: '2023-05-17 20:00:00'
+  abstract_deadline: '2023-05-11 20:00:00'
+  timezone: UTC
+  place: New Orleans, USA
+  date: Dec 10-16 2023
+  start: 2023-12-10
+  end: 2023-10-16
   hindex: 245
   sub: [ML,AI]
   note: Mandatory abstract deadline on May 16, 2022
@@ -828,18 +828,20 @@
 
 
 - title: NLPCC
-  year: 2022
+  year: 2023
   id: nlpcc
   ccf: C
   full_name: CCF International Conference on Natural Language Processing and Chinese Computing
-  link: http://tcci.ccf.org.cn/conference/2022/cfp.php
-  deadline: '2022-05-13 23:59:00'
+  link: http://tcci.ccf.org.cn/conference/2023/index.php
+  deadline: '2023-05-15 23:59:00'
+  deadline: '2023-07-17 23:59:00'
   timezone: UTC-12
-  place: Seattle, Washington, USA
-  date: September 22-25, 2022
-  start: 2022-09-22
-  end: 2022-09-25
+  place: Foshan, China
+  date: October 22-25, 2023
+  start: 2023-10-12
+  end: 2023-10-15
   sub: [NLP,AI]
+  note: No Rebuttal
 
 - title: AAMAS
   year: 2023

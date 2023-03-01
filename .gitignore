@@ -4,3 +4,6 @@ vendor
 .vscode
 .DS_Store
 .idea
+_data/conferences_base.yml
+utils/process copy 2.py
+utils/process copy.py

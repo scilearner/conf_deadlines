@@ -1,15 +1,14 @@
 
 - title: ICB
-  year: 2022
-  id: icb22
+  year: 2023
+  id: icb
   ccf: C
-  link: http://ijcb2022.org/
+  link: https://ijcb2023.ieee-biometrics.org/important-dates/
   full_name: International Joint Conference on Biometrics
-  deadline: '2022-05-16 23:59:00'
-  notification: '2022-07-18 23:59:00'
+  deadline: '2023-04-17 23:59:00'
   timezone: PDT
-  place: Abu Dhabi, United Arab Emirates
-  date: Oct 10-13, 2022
-  start: 2022-10-10
-  end: 2022-10-13
+  place: Ljubljana, Slovenia
+  date: September 25-28, 2023
+  start: 2023-09-25
+  end: 2023-09-28
   sub: [AI]
